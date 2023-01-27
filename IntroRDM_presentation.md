@@ -889,8 +889,10 @@ onclick="alert('Let´s work together!');"
 {{2-3}}
 ***********
 
-![DOI](images/doi.png "The DOI® System ISO 26324") <!--
-style="width: 40%" -->
+<div style="width:40%;">
+  <img src="images/doi.png" alt="figures hugging">
+    <sub style="text-align: right;">The DOI® System ISO 26324</sub>
+</div>
 
 ***********
 
