@@ -1044,6 +1044,8 @@ Origin, Location and Meaning of Data
 > - **Description**: Air temperature measurement at the weather station Lingen, Germany, on 29 July 2019 in Kelvin
 **************
 
+<div style="page-break-after: always;"></div>
+
 {{8-9}}
 *************
 **Traceability**
@@ -1054,7 +1056,6 @@ Origin, Location and Meaning of Data
 </div>
 
 
-
 *****************
 
 </div>
@@ -1062,8 +1063,6 @@ Origin, Location and Meaning of Data
 <div style="page-break-after: always;"></div>
 
 ### Metadata
-
-<div style="page-break-before: always;"></div>
 
 {{0-1}}
 *********
@@ -1179,11 +1178,9 @@ onclick="alert('Let´s work together!');"
 Where do you store your data?
 ---
 
-![image](images/backup.png) <!--
-style="width: 30%; max-width: 800px; float:right"
-title="backup"
-onclick="alert('No back up? No mercy!');"
--->
+<div style="float:right; width:40%;">
+  <img src="images/backup.png" alt="No back up? No mercy!">
+</div>
 
 
 {{1}}
@@ -1478,6 +1475,9 @@ Example:
 
 ***************
 
+
+<div style="page-break-after: always;"></div>
+
 {{4-5}}
 *************
 
@@ -1505,15 +1505,17 @@ Example:
 {{5}}
 **************
 
+<div style="float:right; width:10%;">
+<img src="images/working.png" alt="re3data">
+</div>
+
+<div style="float:left; width:80%;">
 >__Individual work__
->![image](images/working.png)<!--
-style="width: 15%; max-width: 400px; float:right"
-title="working"
-onclick="alert('Individual work');"
--->
 > Search **re3data.org** for a repository that is appropriate for your data.
 >
 >Let us discuss your search and selection.
+
+</div>
 
 *****************
 
@@ -1556,7 +1558,7 @@ Selection of the license depends on the type of data:
 
 {{2-3}}
 ******************
-> CC-Licenses
+> ODC-Licenses
 
 <div style="width:100%;">
   <img src="images/odc-licences.png" alt="odc-licences.png">
