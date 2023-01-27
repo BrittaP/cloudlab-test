@@ -1556,6 +1556,8 @@ Selection of the license depends on the type of data:
 
 *********************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ******************
 > ODC-Licenses
