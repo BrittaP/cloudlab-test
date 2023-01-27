@@ -1660,6 +1660,7 @@ onclick="alert('Individual work');"
 
 {{0-1}}
 ************
+
 >**Research Data Alliance**
 
 >**Nationale Forschungsdateninfrastruktur (NFDI)**
@@ -1699,6 +1700,7 @@ onclick="alert('Individual work');"
   <img src="images/RDA.png" alt="rda logo">
 </div>
 
+---
 
 *****************
 
@@ -1740,6 +1742,8 @@ onclick="alert('Individual work');"
 
 ********************
 
+---
+
 <div style="page-break-after: always;"></div>
 
 {{3-4}}
@@ -1775,9 +1779,11 @@ onclick="alert('Individual work');"
   <img src="images/DFG.png" alt="nfdi logo">
 </div>
 
-<div style="page-break-after: always;"></div>
+---
 
 *****************
+
+<div style="page-break-after: always;"></div>
 
 {{4-5}}
 ************
