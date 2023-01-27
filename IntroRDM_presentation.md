@@ -737,7 +737,7 @@ Which examples are following a good naming convention?
 ********************************************************************************
 **Example for Version Information within a document:**
 
-![VersionInfo](images\versionsdoku-beispiel-rda_2.png "Version Information inside a document") <!-- width="500px" -->
+<img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
 
 Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
