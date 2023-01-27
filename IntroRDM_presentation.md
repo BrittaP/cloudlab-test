@@ -737,11 +737,7 @@ Which examples are following a good naming convention?
 ********************************************************************************
 **Example for Version Information within a document:**
 
-<center>
-  <img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
-    <sub style="text-align: center;">Version Information inside a document</sub>
-</center>
-
+<img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
 
 Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
@@ -819,37 +815,43 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 *********
 
-![image](images\datadocumentation.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="documentation"
-onclick="alert('documentation');"
--->
+<div style="float:left; width:60%;">
+  <p>
 
-**A good data documentation should include**
+  **A good data documentation should include**
 
-- Information on the collection of data
+  - Information on the collection of data
 
-    - Methods, units, time periods, locations, technique used, etc.
+      - Methods, units, time periods, locations, technique used, etc.
 
-- Structure of the data and their mutual relationships
+  - Structure of the data and their mutual relationships
 
-- Explanation of variables, labels and codes
+  - Explanation of variables, labels and codes
 
-- Differences between different data set versions
+  - Differences between different data set versions
 
-- Measures for data cleaning
+  - Measures for data cleaning
 
-- Information on access and terms of use
+  - Information on access and terms of use
 
-    - Licensing
+      - Licensing
 
-- Ideal world
+  - Ideal world
 
-    - Description of the research undertaking
+      - Description of the research undertaking
 
-      - Goals
+        - Goals
 
-    - Hypotheses
+      - Hypotheses
+
+</p>
+
+
+</div>
+
+<div style="float:right; width:40%;">
+  <img src="images\datadocumentation.png" alt="figures hugging">
+</div>
 
 **************
 
@@ -887,7 +889,7 @@ onclick="alert('documentation');"
 {{2-3}}
 ***********
 
-![DOI](images\doi.png "The DOI® System ISO 26324") <!--
+![DOI](images/doi.png "The DOI® System ISO 26324") <!--
 style="width: 40%" -->
 
 ***********
@@ -895,27 +897,27 @@ style="width: 40%" -->
 {{3-4}}
 ******************
 
-![Kelvin](images\kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
+![Kelvin](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
 
 ******************
 
 {{4-5}}
 *******************
-![calender](images\calender.png)
+![calender](images/calender.png)
 
 *******************
 
 {{5-6}}
 *******************
-![wetterwarte](images\wetterwarte.png)
+![wetterwarte](images/wetterwarte.png)
 
 *******************
 
 {{6-7}}
 *************
-![ROR](images\ROR.jpg)
+![ROR](images/ROR.jpg)
 
-![DWD](images\dwd.jpg) <!--
+![DWD](images/dwd.jpg) <!--
 style="width: 40%" -->
 
 *******************
@@ -1049,7 +1051,7 @@ Origin, Location and Meaning of Data
 
 {{0-1}}
 *********
-![image](images/datadocumentation.png)<!--
+![image](images/datadocumentation.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 -->
 
@@ -1342,11 +1344,9 @@ ___Open Access___
 
 Example:
 
-![image](images/Example_R-R-Article.jpg)<!--
-style="width: 80%; max-width: 800px"
-title="Example"
-onclick="alert('Source: \https://doi.pangaea.de/10.1594/PANGAEA.925015');"
--->
+<div style="width:100%;">
+  <img src="images/Example_R-R-Article.jpg" alt="Example R-R-Article">
+</div>
 
 **********************
 
@@ -1369,13 +1369,17 @@ onclick="alert('Source: \https://doi.pangaea.de/10.1594/PANGAEA.925015');"
 Example:
 
 <div style="float:left; width:45%;">
-![image](images/Example_Pangaea.jpg "Source: https://www.pangaea.de/, Zugriff 10.02.2021")
+<img src="images/Example_Pangaea.jpg" alt="Example R-R-Article">
+<sub>Source: https://www.pangaea.de/, Zugriff 10.02.2021</sub>
 
 </div>
 
 <div style="float:right; width:45%;">
 
-![image](images/Example_Zenodo.jpg "Quelle: https://zenodo.org/, Zugriff 10.02.2021")
+<div style="width:100%;">
+  <img src="images/Example_Zenodo.jpg" alt="Example Zenodo">
+  <sub>Source: https://zenodo.org/, Zugriff 10.02.2021</sub>
+</div>
 
 </div>
 
@@ -1386,6 +1390,7 @@ Example:
 {{1}}
 ********************
 > Data journals
+
 ********************
 
 {{4-5}}
@@ -1398,13 +1403,17 @@ Example:
 Example:
 
 <div style="float:left; width:45%;">
-![image](images/example-ESSdata.png "Quelle: https://www.earth-system-science-data.net, Zugriff 10.02.2021")
+<img src="images/example-ESSdata.png" alt="Example Data journal">
+<sub>Source: https://www.earth-system-science-data.net, Zugriff 10.02.2021</sub>
 
 </div>
 
 <div style="float:right; width:45%;">
 
-![image](images/example-datainbrief.png "Quelle: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021")
+<div style="width:100%;">
+  <img src="images/example-datainbrief.png" alt="Example Data journal">
+  <sub>Source: https://www.journals.elsevier.com/data-in-brief, Zugriff 10.02.2021</sub>
+</div>
 
 </div>
 
