@@ -890,7 +890,7 @@ onclick="alert('Let´s work together!');"
 ***********
 
 <div style="width:40%;">
-  <img src="images/doi.png" alt="figures hugging">
+  <img src="images/doi_logo.jpg" alt="figures hugging">
     <sub style="text-align: right;">The DOI® System ISO 26324</sub>
 </div>
 
@@ -899,7 +899,10 @@ onclick="alert('Let´s work together!');"
 {{3-4}}
 ******************
 
-![Kelvin](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
+<div style="width:50%;">
+  <img src="images/kelvin.png" alt="figures hugging">
+    <sub style="text-align: right;">Temperature in Kelvin 364,07 K ≈ 42,6º C</sub>
+</div>
 
 ******************
 
@@ -1041,7 +1044,12 @@ Origin, Location and Meaning of Data
 *************
 **Traceability**
 
-![trance](images\traceability.png)
+<div style="width:100%;">
+  <img src="images/traceability.png" alt="figures hugging">
+    <sub style="text-align: right;"></sub>
+</div>
+
+
 
 *****************
 
@@ -1049,9 +1057,9 @@ Origin, Location and Meaning of Data
 
 <div style="page-break-after: always;"></div>
 
-<div style="page-break-before: always;"></div>
-
 ### Metadata
+
+<div style="page-break-before: always;"></div>
 
 {{0-1}}
 *********
@@ -1166,6 +1174,7 @@ onclick="alert('Let´s work together!');"
 {{0}}
 Where do you store your data?
 ---
+
 ![image](images/backup.png) <!--
 style="width: 30%; max-width: 800px; float:right"
 title="backup"
