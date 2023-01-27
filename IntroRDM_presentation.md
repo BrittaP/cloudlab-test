@@ -887,7 +887,7 @@ onclick="alert('documentation');"
 {{2-3}}
 ***********
 
-![DOI](images/doi.png "The DOI® System ISO 26324") <!--
+![DOI](images\doi.png "The DOI® System ISO 26324") <!--
 style="width: 40%" -->
 
 ***********
@@ -895,27 +895,27 @@ style="width: 40%" -->
 {{3-4}}
 ******************
 
-![Kelvin](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
+![Kelvin](images\kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
 
 ******************
 
 {{4-5}}
 *******************
-![calender](images/calender.png)
+![calender](images\calender.png)
 
 *******************
 
 {{5-6}}
 *******************
-![wetterwarte](images/wetterwarte.png)
+![wetterwarte](images\wetterwarte.png)
 
 *******************
 
 {{6-7}}
 *************
-![ROR](images/ROR.jpg)
+![ROR](images\ROR.jpg)
 
-![DWD](images/dwd.jpg) <!--
+![DWD](images\dwd.jpg) <!--
 style="width: 40%" -->
 
 *******************
