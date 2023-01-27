@@ -737,7 +737,11 @@ Which examples are following a good naming convention?
 ********************************************************************************
 **Example for Version Information within a document:**
 
-<img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
+<center>
+  <img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
+    <sub style="text-align: center;">Version Information inside a document</sub>
+</center>
+
 
 Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
@@ -794,7 +798,7 @@ onclick="alert('Individual work');"
 >
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
-title="puzzle"
+title="group-work"
 onclick="alert('Let´s work together!');"
 -->
 >
@@ -815,8 +819,10 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 *********
 
-![Datadocu](images\datadocumentation.png) <!--
+![image](images\datadocumentation.png)<!--
 style="width: 20%; max-width: 800px; float:right"
+title="documentation"
+onclick="alert('documentation');"
 -->
 
 **A good data documentation should include**
