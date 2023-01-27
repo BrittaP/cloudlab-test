@@ -1047,6 +1047,8 @@ Origin, Location and Meaning of Data
 
 <div style="page-break-after: always;"></div>
 
+<div style="page-break-before: always;"></div>
+
 ### Metadata
 
 {{0-1}}
@@ -1162,7 +1164,7 @@ onclick="alert('Let´s work together!');"
 {{0}}
 Where do you store your data?
 ---
-![image](images/backup.png)<!--
+![image](images/backup.png) <!--
 style="width: 30%; max-width: 800px; float:right"
 title="backup"
 onclick="alert('No back up? No mercy!');"
