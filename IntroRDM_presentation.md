@@ -1214,11 +1214,10 @@ How do your store your (sensitive) data?
 
 >***An important goal of structured research data management is to keep data accessible, reusable and verifiable in the long term and independent of individuals.***
 
-![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!--
-style="width: 50%; max-width: 600px; align:center"
-title="Is your data FAIR?"
-onclick="alert('How FAIR ist your data?');"
--->
+<div style="width:50%;">
+  <img src="images/fair2.jpg" alt="targets">
+  <sub><span style="text-align: right;">Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021)</span></sub>
+</div>
 
 ****************
 
