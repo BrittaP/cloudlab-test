@@ -815,7 +815,7 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 *********
 
-![image](images\datadocumentation.png)<!--
+![Datadocu](images\datadocumentation.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 -->
 
@@ -881,7 +881,7 @@ style="width: 20%; max-width: 800px; float:right"
 {{2-3}}
 ***********
 
-![image](images/doi.png "The DOI® System ISO 26324") <!--
+![DOI](images/doi.png "The DOI® System ISO 26324") <!--
 style="width: 40%" -->
 
 ***********
@@ -889,27 +889,27 @@ style="width: 40%" -->
 {{3-4}}
 ******************
 
-![image](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
+![Kelvin](images/kelvin.png "Temperature in Kelvin 364,07 K ≈ 42,6º C")
 
 ******************
 
 {{4-5}}
 *******************
-![image](images/calender.png)
+![calender](images/calender.png)
 
 *******************
 
 {{5-6}}
 *******************
-![image](images/wetterwarte.png)
+![wetterwarte](images/wetterwarte.png)
 
 *******************
 
 {{6-7}}
 *************
-![image](images/ROR.jpg)
+![ROR](images/ROR.jpg)
 
-![image](images/dwd.jpg) <!--
+![DWD](images/dwd.jpg) <!--
 style="width: 40%" -->
 
 *******************
@@ -1031,7 +1031,7 @@ Origin, Location and Meaning of Data
 *************
 **Traceability**
 
-![image](images\traceability.png)
+![trance](images\traceability.png)
 
 *****************
 
