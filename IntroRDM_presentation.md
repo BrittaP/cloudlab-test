@@ -1671,6 +1671,8 @@ onclick="alert('Individual work');"
 
 ************
 
+<div style="page-break-after: always;"></div>
+
 {{1-2}}
 ************
 
@@ -1699,8 +1701,6 @@ onclick="alert('Individual work');"
 <div style="float:right; width:30%">
   <img src="images/RDA.png" alt="rda logo">
 </div>
-
----
 
 *****************
 
@@ -1742,8 +1742,6 @@ onclick="alert('Individual work');"
 
 ********************
 
----
-
 <div style="page-break-after: always;"></div>
 
 {{3-4}}
@@ -1779,8 +1777,6 @@ onclick="alert('Individual work');"
   <img src="images/DFG.png" alt="nfdi logo">
 </div>
 
----
-
 *****************
 
 <div style="page-break-after: always;"></div>
@@ -1797,17 +1793,18 @@ onclick="alert('Individual work');"
 
 <div style="float:left; width:60%;">
 
-- Framework Programme for Research and Technological Development of the European Comission
+- Framework Programme for Research and Technological Development of the European Commission:
 
-  - [Horizon 2020 Online Manual – Data Management](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+- [Horizon 2020 Online Manual – Data Management](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
-  - [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
+- [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
 
-  - [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
+- [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
 
 - Open access to research data is applicable by default
 
   - as open as possible, as closed as necessary
+
 - Make research data findable, accessible, interoperable and re-usable (FAIR)
 
 - DMP should include information on:
@@ -1822,7 +1819,7 @@ onclick="alert('Individual work');"
 
   - How data will be curated & preserved (including after the end of the project)
 
-  </div>
+</div>
 
   <div style="float:right; width:30%">
     <img src="images/European-Commission-logo.png" alt="nfdi logo">
