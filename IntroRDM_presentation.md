@@ -357,10 +357,6 @@ onclick="alert('Group work');"
 
 ### Review Expectations
 
-<iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
----
-
 <iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
 
 <div style="page-break-after: always;"></div>
@@ -634,7 +630,10 @@ Find your workspace here: https://miro.com/app/board/uXjVPvwAFbI=/
 
 **Example for a folder hierarchy**
 
-![Bild](images/Abb_OrdnerstrukturArchproject_2022_bp.png)<!-- width="350px" -->
+<center>
+  <img src="images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
+    <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
+</center>
 
 ********************************************************************************
 
@@ -679,8 +678,6 @@ Which examples are following a good naming convention?
 
 <center><img src="images/versioning-geek-and-poke.jpg" alt="which version to choose?" width="350"></center>
 
-
-
 ********************************************************************************
 
 {{1-2}}
@@ -718,6 +715,8 @@ Which examples are following a good naming convention?
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ********************************************************************************
 
@@ -737,22 +736,23 @@ Which examples are following a good naming convention?
 {{3-4}}
 ********************************************************************************
 **Example for Version Information within a document:**
-![Bild](images/versionsdoku-beispiel-rda_2.png)<!--
-style="width: 80%; max-width: 800px; float:left"
-title="rda versions"
-onclick="alert('rda versions');"
--->
+
+![VersionInfo](images\versionsdoku-beispiel-rda_2.png "Version Information inside a document") <!-- width="500px" -->
+
+Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{4}}
 ********************************************************************************
 
 **Example for a documented versioning scheme:**
 
-<center><img src="images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema" width="550"></center>
+<img src="images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema">
 
-https://zenodo.org/record/6076538#.Y4pE63bMJPa
+Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 ********************************************************************************
 
@@ -761,7 +761,7 @@ https://zenodo.org/record/6076538#.Y4pE63bMJPa
 ### Develop a naming convention
 
 >__Individual work or group work for people working on the same project__
->![image](images/working.png)<!--
+>![image](images\working.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Individual work');"
@@ -815,7 +815,7 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 *********
 
-![image](images/datadocumentation.png)<!--
+![image](images\datadocumentation.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 -->
 
