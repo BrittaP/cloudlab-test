@@ -890,7 +890,7 @@ onclick="alert('Let´s work together!');"
 ***********
 
 <div style="width:40%;">
-  <img src="images/doi_logo.jpg" alt="figures hugging">
+  <img src="images/doi_logo.jpg" alt="doi">
     <sub style="text-align: right;">The DOI® System ISO 26324</sub>
 </div>
 
@@ -900,7 +900,7 @@ onclick="alert('Let´s work together!');"
 ******************
 
 <div style="width:50%;">
-  <img src="images/kelvin.png" alt="figures hugging">
+  <img src="images/kelvin.png" alt="kelvin">
     <sub style="text-align: right;">Temperature in Kelvin 364,07 K ≈ 42,6º C</sub>
 </div>
 
@@ -908,22 +908,26 @@ onclick="alert('Let´s work together!');"
 
 {{4-5}}
 *******************
-![calender](images/calender.png)
+
+<img src="images/calender.png" alt="calender">
 
 *******************
 
 {{5-6}}
 *******************
-![wetterwarte](images/wetterwarte.png)
+
+<img src="images/wetterwarte.png" alt="wetterwarte">
 
 *******************
 
 {{6-7}}
 *************
-![ROR](images/ROR.jpg)
 
-![DWD](images/dwd.jpg) <!--
-style="width: 40%" -->
+<img src="images/ROR.jpg" alt="ROR">
+
+---
+
+<img src="images/dwd.png" alt="dwd logo">
 
 *******************
 
@@ -1099,7 +1103,7 @@ style="width: 20%; max-width: 800px; float:right"
 **************
 
 >**Individual work**:
->![image](images/working.png)<!--
+>![image](images/working.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Data documentation');"
@@ -1468,9 +1472,8 @@ Example:
 </div>
 
 <div style="float:right; width:45%;">
-
-![image](images/re3data.jpg "Quelle: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021")
-
+<img src="images/re3data.jpg" alt="re3data">
+<sub>Source: re3data About. http://service.re3data.org/about. Zugriff 10.02.2021</sub>
 </div>
 
 ***************
@@ -1491,9 +1494,8 @@ Example:
 </div>
 
 <div style="float:right; width:45%;">
-
-![image](images/RIsourcesDFG.jpg "Quelle: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021")
-
+<img src="images/RIsourcesDFG.jpg" alt="re3data">
+<sub>Source: http://risources.dfg.de/index.html#q=*&sort=RI_SORT_DE%20asc&rows=10&RI_EXT=Y. Zugriff 10.02.2021</sub>
 </div>
 
 ************
@@ -1545,7 +1547,10 @@ Selection of the license depends on the type of data:
 ******************
 > CC-Licenses
 
-![CC_Licenses](images/CC-Licenses.jpg) <!-- width="500px" -->
+<div style="width:100%;">
+  <img src="images/CC-Licenses.jpg" alt="CC-Licenses">
+</div>
+
 
 *********************
 
@@ -1553,7 +1558,9 @@ Selection of the license depends on the type of data:
 ******************
 > CC-Licenses
 
-![CC_Licenses](images/odc-licences.png) <!-- width="500px" -->
+<div style="width:100%;">
+  <img src="images/odc-licences.png" alt="odc-licences.png">
+</div>
 
 *********************
 
@@ -1684,13 +1691,15 @@ onclick="alert('Individual work');"
 
 </div>
 
-![image](images/RDA.png)
-
+<div style="float:right; width:30%">
+  <img src="images/RDA.png" alt="rda logo">
 </div>
+
+
+*****************
 
 <div style="page-break-after: always;"></div>
 
-*****************
 
 {{2-3}}
 ************
@@ -1721,10 +1730,8 @@ onclick="alert('Individual work');"
 
 </div>
 
-<div style="float:right; width:20%;">
-
-![image](images/nfdi.png)
-
+<div style="float:right; width:30%">
+  <img src="images/nfdi.png" alt="nfdi logo">
 </div>
 
 ********************
@@ -1760,10 +1767,8 @@ onclick="alert('Individual work');"
 
 </div>
 
-<div style="float:right; width:20%;">
-
-![image](images/DFG.png)
-
+<div style="float:right; width:30%">
+  <img src="images/DFG.png" alt="nfdi logo">
 </div>
 
 <div style="page-break-after: always;"></div>
@@ -1809,10 +1814,8 @@ onclick="alert('Individual work');"
 
   </div>
 
-  <div style="float:right; width:20%;">
-
-  ![image](images/European-Commission-logo.png)
-
+  <div style="float:right; width:30%">
+    <img src="images/European-Commission-logo.png" alt="nfdi logo">
   </div>
 
 ******************
@@ -1992,7 +1995,7 @@ onclick="alert('Questions?');"
 ## One Minute Paper
 
 >  __Individual work__
->![image](images/working.png)<!--
+>![image](images/working.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Individual work');"
@@ -2022,7 +2025,10 @@ onclick="alert('Individual work');"
 
 ## CAU contacts
 
-![Bild](images/rdmCAU.png) <!-- width="250px" align="right" -->
+
+<div style="float:right; width:40%">
+  <img src="images/rdmCAU.png" alt="rdmCAU">
+</div>
 
 **RDM contacts at CAU**:
 
