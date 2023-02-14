@@ -23,7 +23,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 <section>
 
-![Sketch Literaturrecherche](/media/RechercheComic.jpg)
+![Sketch Literaturrecherche](Media/RechercheComic.jpg)
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
 
