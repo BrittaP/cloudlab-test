@@ -71,15 +71,15 @@ Eine schnelle und übersichtliche Möglichkeit, an geeignete Suchbegriffe zu kom
 
 Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen, Übersetzungen und verwandten Begriffen. Auf diese Weise kannst du dein Thema weiter präzisieren und die Suche optimieren.
 
-![Bild Wortliste leer](Media/leer.png)
+![Bild Wortliste leer](Media/leer.PNG)
 
 >➪ Auf der nächsten Seite findest du ein Beispiel für eine ausgefüllte Wortliste.
 
 **Hier kannst du dir eine leere Wortliste herunterladen:**
 
-- [als .docx-Datei](/Download-Dateien/Wortliste.docx)
+- [als .docx-Datei](Download-Dateien/Wortliste.docx)
 
-- [als .pdf-Datei](/Download-Dateien//Wortliste.pdf)
+- [als .pdf-Datei](Download-Dateien/Wortliste.docx)
 
 </section>
 
@@ -90,7 +90,7 @@ Fülle im Anschluss die Tabelle mit weiteren Ober- und Unterbegriffen, Synonymen
 
 Hier wurde vor Beginn der Recherche eine fiktive Wortliste für eine Hausarbeit geschrieben, die sich inhaltlich mit der Bedeutung von Zeitzeugen in Gedenkstätten zur NS-Geschichte auseinandersetzen soll. 
 
-![Bild Wortliste](/media/Wortliste1.png)
+![Bild Wortliste](Media/Wortliste1.png)
 
 >➪ Zu Beginn kannst du vielleicht nicht jede Zeile der Tabelle ausfüllen. Das ist überhaupt nicht schlimm, sondern ein guter **Anknüpfungspunkt für deine Literaturrecherche**: Wo musst du deine Suche vielleicht noch ein wenig verfeinern? Wo verlierst du vielleicht das "Große Ganze" aus den Augen?
 
@@ -105,7 +105,7 @@ So sah die Wortliste nach einiger Recherche aus. Einzelne Begriffe haben im Verl
 
 Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im Laufe der Recherche als vielversprechend herauskristallisiert, sodass er als weiterer Themenaspekt in die Liste aufgenommen wurde. Auf diese Weise kann sich eine Wortliste sehr **dynamisch** mit der Literatursuche entwickeln und sie inhaltlich **nachvollziehbar** machen.
 
-![Bild Wortliste](/media/wortliste2.png)
+![Bild Wortliste](Media/Wortliste2.png)
 
 >➪ **Wortlisten** helfen dir, die Übersicht zu behalten und deine Suche zu strukturieren, indem sie Schlüsselbegriffe festhalten. Eine gut geführte Wortliste kann auch mögliche **inhaltliche Schwerpunkte** für die Strukturierung deiner Arbeit aufzeigen.
 
@@ -163,7 +163,7 @@ Zur besseren Übersicht grenzen wir einmal drei unterschiedliche **Suchräume** 
 
 Die Universitätsbibliothek verfügt über zwei unterschiedliche Katalogsysteme, die beide auf den gleichen Bestand zugreifen. Sie geben Auskunft über die bibliografischen Angaben, den Standort und die Entleihbarkeiten von Literaturtiteln. Dabei durchsuchen sie den gesamten Buchbestand der Zentralbibliothek und der Fachbibliotheken.
 
-| ![Bild OPAC](/media/OPAC.png) | ![Bild Discovery](/media/Discovery.png) | 
+| ![Bild OPAC](Media/OPAC.png) | ![Bild Discovery](Media/Discovery.png) | 
 | ---- |:----------- |
 |[Der "klassische" Katalog (OPAC)](https://katalog.ub.uni-kiel.de/)  |[Der neuere Discovery-Service](https://discovery.ub.uni-kiel.de)  |
 
@@ -414,11 +414,11 @@ Verwende Anführungsstrichen, um Wörter als zusammenhängenden Ausdruck (Phrase
 * "Allgemeine Relativitätstheorie"
 * "Bunte Kühe am Strand"
 
->![Bild Phrase](/media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Reihenfolge der Suchbegriffe fest.
+>![Bild Phrase](Media/phrase.png)➪ Die Phrasensuche setzt die Suchbegriffe im Unterschied zur UND-Suche auf eine bestimmte Reihenfolge der Suchbegriffe fest.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ Aufgabe: Versuche einmal, mehrere Begriffe von deiner Wortliste auf unterschiedliche Weise miteinander zu kombinieren und beobachte dabei die Ergebnisse. Was verändert sich? Welche Kombinationsmöglichkeiten machen Sinn, welche weniger?
 
-<font color =399193>[Prüfen](/media/Kombinationen.png)</font>
+<font color =399193>[Prüfen](Media/Kombinationen.png)</font>
 
 </div>
 
@@ -434,7 +434,7 @@ Verwende das Wort NOT (in Großbuchstaben) oder das Minuszeichen, um Treffer zu 
 * digital NOT literacy
 * digital -literacy
 
->![Bild NOT](/media/NOT.png)➪ Die NOT-Suche verkleinert den Suchbereich, indem sie nur die Begriffe vor dem NOT sucht und den hinter dem NOT ausschließt.
+>![Bild NOT](Media/NOT.png)➪ Die NOT-Suche verkleinert den Suchbereich, indem sie nur die Begriffe vor dem NOT sucht und den hinter dem NOT ausschließt.
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;"> ✎ An welcher Stelle könnte die Verwendung von NOT bei einer Suche hilfreich sein?
 
