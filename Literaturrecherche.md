@@ -21,8 +21,6 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Die digitale Literaturrecherche
 
-<section>
-
 ![Sketch Literaturrecherche](Media/RechercheComic.jpg)
 Literaturrecherche und die Arbeit mit Literatur sind feste Bestandteile des Studiums. Doch wo fängt man überhaupt an, Literatur zu suchen? Welche Datenbanken könnten dabei helfen und wie werden sie möglichst effektiv genutzt? 
 Mit den richtigen Basics ist die Literaturrecherche gar nicht so schwer!
@@ -49,7 +47,6 @@ In diesem Baustein stellen wir dir einige nützliche Strategien und Tools für d
 
  Wir wünschen dir viel Spaß!
 
-</section>
 
 ## Vom Thema zum Suchbegriff
 
@@ -117,7 +114,7 @@ Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im
 <h3> Probiere es einmal selbst aus! </h3>
 
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Erstelle einmal eine Wortliste zu einem deiner Themen. Suche dafür mindestens drei zentrale Kernbegriffe aus und fülle die Tabelle für einen der Begriffe aus. 
-Du kannst dafür die leeren Vorlagen ([als .docx](/media/Wortliste.docx)/[als .pdf](/media/Wortliste.pdf)) verwenden oder sie einfach auf ein leeres Blatt Papier bzw. ein digitales Pendant schreiben. 
+Du kannst dafür die leeren Vorlagen ([als .docx](Media/Wortliste.docx)/[als .pdf](Media/Wortliste.pdf)) verwenden oder sie einfach auf ein leeres Blatt Papier bzw. ein digitales Pendant schreiben. 
 <br>
 <br>
 Du wirst die Liste später noch einmal brauchen, also lege sie nicht zu weit weg.</div>
@@ -142,7 +139,7 @@ Du wirst die Liste später noch einmal brauchen, also lege sie nicht zu weit weg
 ## Bibliografien und Literaturdatenbanken
 
         {{0-1}}
-<section>
+********************************
 
 Nachdem du dir eine Übersicht gemacht hast, WAS du suchen willst, folgt nun die Frage, WO man überhaupt sucht. Für eine erfolgreiche Onlinerecherche ist die Auswahl einer geeigneten Datenbank sehr wichtig. Im Folgenden sollst du erfahren, wie und wo du geeignete Datenbanken finden kannst. 
 
@@ -154,10 +151,10 @@ Zur besseren Übersicht grenzen wir einmal drei unterschiedliche **Suchräume** 
 
 >➪ Wichtig ist, dass du dich nicht auf einen einzelnen Suchraum verlässt! Jeder Suchraum hat seine eigenen Vor- und Nachteile und nur durch **mehrere Suchorte** kannst du dein Thema gründlich bearbeiten.
 
-</section>
+********************************
 
         {{1-2}}
-<section>
+********************************
 
 <h3> Kataloge der Universitätsbibliothek</h3>
 
@@ -171,10 +168,10 @@ Beide Kataloge bieten viele Möglichkeiten, die Suche einzuschränken und zu spe
 
 >➪ Eine Literatursuche über den Katalog bringt schnelle Erfolge und verweist auf konkret vor Ort oder digital verfügbare Literatur. Sie begrenzt den Suchbereich jedoch nur auf den **Bestand der Universitätsbibliothek und der Fachbibliotheken**, nicht auf die allgemein verfügbare Literatur.
 
-</section>
+********************************
 
         {{2-3}}
-<section>
+********************************
 
 <h3>Was bieten die Kataloge?</h3>
 
@@ -202,10 +199,10 @@ Wenn dir kein Buch einfällt, dann such doch einfach:
 [   [X]        [X]          ] Listet passende Schlagworte zum gewählten Buch auf
 [   [X]        [ ]          ] Chronologische Suchgeschichte
 
-</section>
+********************************
 
         {{3-4}}
-<section>
+********************************
 
 <h3>Fachdatenbanken</h3>
 
@@ -215,10 +212,10 @@ Fachdatenbanken listen neben Monographien und Sammelwerken hauptsächlich **einz
 
 Kennst du allgemeine wissenschaftliche Datenbanken? </div>
 
-</section>
+********************************
 
         {{4-5}}
-<section>
+********************************
 
 Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universitätsbibliothek Kiel. Dort ist eine Vielzahl verschiedener Datenbanken nach Fachbereichen sortiert aufgelistet. Diese sind entweder frei zugänglich oder von der Universitätsbibliothek Kiel lizensiert.
 
@@ -227,10 +224,10 @@ Eine gute **Übersicht** bietet dir das Datenbank-Infosystem (DBIS) der Universi
 <div style="background-color:#ffe6b3;padding: 25px;border: no;">✎ Suche doch einmal auf der Seite des DBIS nach deinem Fachbereich und klicke auf ihn.<br>
 Welche Fachdatenbanken werden dir vorgeschlagen? Was für Spezialisierungen haben sie? </div>
 
-</section>
+********************************
 
         {{5-6}}
-<section>
+********************************
 
 <h3>Internetrecherche</h3>
 
@@ -240,10 +237,10 @@ Dazu gehört neben den Problemen der Relevanzbewertung durch die Suchmaschine se
 
 >➪Allgemeine Suchmaschinen und eine breitere Internetrecherche können besonders für den Anfang auf der Suche nach einem schnellen ersten Überblick sehr hilfreich sein. **Eine vertiefte Literaturrecherche ist jedoch nicht möglich.**
 
-</section>
+********************************
 
         {{6-7}}
-<section>
+********************************
 
 <h3>Auch mal nach Hilfe fragen</h3>
 
@@ -251,7 +248,7 @@ Bei der Vielzahl an Datenbanken, die es für die verschiedenen Fachbereiche gibt
 
 >➪Auch bei der Online-Recherche gilt: es ist noch kein Meister vom Himmel gefallen. Und Datenbank ist nicht gleich Datenbank.
 
-</section>
+********************************
 
 ## Die richtige Suchstrategie
 
@@ -328,9 +325,7 @@ Hier ein paar Hinweise zur "richtigen" Eingabe:
         {{0-1}}
 <section>
 
-<div style=width:40%>
-  <img src="media/Comic.png" alt="Comic Bücherstapel auf einem Schreibtisch">
-</div>
+![Comic](Media/Comic.png)<!-- width="300px" align="right" -->
 
 <br>
 
