@@ -105,7 +105,7 @@ So sah die Wortliste nach einiger Recherche aus. Einzelne Begriffe haben im Verl
 
 Zusätzlich ist ein ganzer **Kernbegriff** neu dazu gekommen. Dieser hat sich im Laufe der Recherche als vielversprechend herauskristallisiert, sodass er als weiterer Themenaspekt in die Liste aufgenommen wurde. Auf diese Weise kann sich eine Wortliste sehr **dynamisch** mit der Literatursuche entwickeln und sie inhaltlich **nachvollziehbar** machen.
 
-![Bild Wortliste](Media/Wortliste2.png)
+![Bild Wortliste](Media/wortliste2.png)
 
 >➪ **Wortlisten** helfen dir, die Übersicht zu behalten und deine Suche zu strukturieren, indem sie Schlüsselbegriffe festhalten. Eine gut geführte Wortliste kann auch mögliche **inhaltliche Schwerpunkte** für die Strukturierung deiner Arbeit aufzeigen.
 
